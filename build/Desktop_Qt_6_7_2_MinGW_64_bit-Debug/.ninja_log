@@ -1,0 +1,9 @@
+# ninja log v6
+6	498	7463757767954991	learn_qt_autogen/timestamp	2f130fe77074ae28
+6	498	7463757767954991	learn_qt_autogen/mocs_compilation.cpp	2f130fe77074ae28
+6	498	7463757767954991	C:/Users/21966/Desktop/Qt_build/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/learn_qt_autogen/timestamp	2f130fe77074ae28
+6	498	7463757767954991	C:/Users/21966/Desktop/Qt_build/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/learn_qt_autogen/mocs_compilation.cpp	2f130fe77074ae28
+502	1500	7463757768631526	CMakeFiles/learn_qt.dir/learn_qt_autogen/mocs_compilation.cpp.obj	fb61d7ab7ba8c19d
+509	1561	7463757768706598	CMakeFiles/learn_qt.dir/main.cpp.obj	68e33208296b5813
+517	1585	7463757768781630	CMakeFiles/learn_qt.dir/mainwindow.cpp.obj	4cd2e92047bcd3e8
+1585	1722	7463757779459458	learn_qt.exe	cfa6dd9335f6c69e
