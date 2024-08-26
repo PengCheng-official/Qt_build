@@ -1,0 +1,19 @@
+# ninja log v5
+2	538	7462634282353000	learn_qt_autogen/timestamp	ab2f64c2a5a0b807
+2	538	7462634282353000	learn_qt_autogen/mocs_compilation.cpp	ab2f64c2a5a0b807
+2	538	7462634282353000	D:/Qt/MyCode/learn_qt/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/learn_qt_autogen/timestamp	ab2f64c2a5a0b807
+2	538	7462634282353000	D:/Qt/MyCode/learn_qt/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/learn_qt_autogen/mocs_compilation.cpp	ab2f64c2a5a0b807
+539	1708	7462634294577673	CMakeFiles/learn_qt.dir/learn_qt_autogen/mocs_compilation.cpp.obj	4f937f696f53f676
+546	1711	7462634294727752	CMakeFiles/learn_qt.dir/main.cpp.obj	9d1d9f4d2e7d7c53
+555	1761	7462634295251846	CMakeFiles/learn_qt.dir/mainwindow.cpp.obj	d3d4f668813eed74
+1761	1940	7462634296696409	learn_qt.exe	6a00e5ce30e56d88
+0	51	0	CMakeFiles/clean.additional	b204ae20460b9c6d
+51	64	0	clean	88edc79cc30826a4
+42	823	7463698215274598	learn_qt_autogen/timestamp	ab2f64c2a5a0b807
+42	823	7463698215274598	learn_qt_autogen/mocs_compilation.cpp	ab2f64c2a5a0b807
+42	823	7463698215274598	D:/Qt/MyCode/learn_qt/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/learn_qt_autogen/timestamp	ab2f64c2a5a0b807
+42	823	7463698215274598	D:/Qt/MyCode/learn_qt/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/learn_qt_autogen/mocs_compilation.cpp	ab2f64c2a5a0b807
+839	2507	7463698232643022	CMakeFiles/learn_qt.dir/mainwindow.cpp.obj	d3d4f668813eed74
+824	2507	7463698232643022	CMakeFiles/learn_qt.dir/learn_qt_autogen/mocs_compilation.cpp.obj	4f937f696f53f676
+831	2519	7463698232909441	CMakeFiles/learn_qt.dir/main.cpp.obj	9d1d9f4d2e7d7c53
+2519	3605	7463698243728245	learn_qt.exe	6a00e5ce30e56d88
